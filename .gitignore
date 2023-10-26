@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# Generated files
+generatedToken.txt
+keyFile.txt
+
+# Private and public keys
+*.pem
